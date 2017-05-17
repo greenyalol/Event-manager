@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name="colorPrimary">#F44336</color>
+        <color name="colorPrimaryDark">#303F9F</color>
+        <color name="colorAccent">#FAF0E6</color>
+        <color name="colorBckgr0">#C0C0C0</color>
+        <color name="colorMainBckgr">#F44336</color>
+        <color name="colorFramesWindows">#FFC107</color>
+</resources>

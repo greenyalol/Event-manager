@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/ic_full_action"
+        app:showAsAction="always"
+        android:orderInCategory="100"
+        android:title="Обновить" />
+
+    <item
+        android:id="@+id/activity_a"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="Мои мероприятия" />
+
+    <item android:id="@+id/action_search"
+        android:title="Search"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="always"/>
+
+</menu>

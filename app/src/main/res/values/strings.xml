@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EventManager</string>
+    <string-array name="categorylist">
+        <item>Спорт</item>
+        <item>Развлечение</item>
+        <item>Другое</item>
+    </string-array>
+</resources>
