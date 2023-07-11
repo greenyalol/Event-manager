@@ -1,3 +1,3 @@
 # Event-manager
 
-My university diploma
+Android application for my university diploma
