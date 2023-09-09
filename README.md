@@ -1,3 +1,3 @@
 # Event-manager
 
-Android application for my university diploma
+Full stack Android application for my university diploma
