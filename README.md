@@ -1,5 +1,5 @@
 # Event-manager
-Full stack Android application for my university diploma
+Full stack Android application for my university diploma.
 ## Synopsis
 The goal of the application is the automation of event organization that helps people save time for event planning and makes this process more convenient. 🙂
 
